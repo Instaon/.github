@@ -1,16 +1,14 @@
-## 👁️ Insta · Let intelligent collaboration know no boundaries
+# 引态科技 Instatech
 
-**With AIOS, we connect devices and agents so value flows**
+**让智能协作不再有边界**  
 
-AIOS chips & protocols link devices and agents with identity, semantic registration, proactive service, and co-earning so value flows.
+*Let intelligent collaboration know no boundaries.*
 
-From embedded edge devices to ambient intelligence, we empower developers to create, deploy, and orchestrate intelligent agents with full-stack, cross-device compatibility.
+> 当智能参与协作，文明开始自我进化。  
+> *When intelligence collaborates, civilization evolves.*
 
-## 🔭 What We Do
-- 🧠 AIOS-ACRP — Capability Registration & Broadcast Protocol for multi-agent collaboration and co-earning.
-- 🍪 AIOS-Chip — Proximity self-organizing networking for plug-and-play intelligence.
-- 🌐 AIOS-Protocols — Register, discover, and communicate with agents via MCP and A2A standards.
-- 🧰 Developer SDKs — Cross-platform tools for creating AI-enhanced applications and hardware experiences.
-- 🪶 Extensible Interfaces — Seamless integration with sensors, displays, wearables, and smart environments.
+- **AIOS 能力芯片与协议**：身份确权、语义注册、近场组网  
+- **多智能体主动服务**：设备被理解、被协作、可分润  
+- **价值自动流动**：连接智能与社会生产，重塑协作秩序
 
-> We believe in a future where every device is intelligent, and every user has their own AI team.
+🔗 [Website](https://yintai.ai/) / [Docs](https://docs.yintai.ai/) / [Demo](https://chat.yintai.ai/)
