@@ -1,11 +1,15 @@
-## 👁️ Insta · The AI-Native OS Company
+## 👁️ Insta · Let intelligent collaboration know no boundaries
 
-**Insta is building the operating system for the AI-native era.**
+**With AIOS, we connect devices and agents so value flows**
+
+AIOS chips & protocols link devices and agents with identity, semantic registration, proactive service, and co-earning so value flows.
+
 From embedded edge devices to ambient intelligence, we empower developers to create, deploy, and orchestrate intelligent agents with full-stack, cross-device compatibility.
 
 ## 🔭 What We Do
-- 🧠 AI-Native OS Kernel — A minimal, modular, and intelligent core designed for AI-driven interaction.
-- 🌐 Agent Protocols — Register, discover, and communicate with agents via MCP and A2A standards.
+- 🧠 AIOS-ACRP — Capability Registration & Broadcast Protocol for multi-agent collaboration and co-earning.
+- 🍪 AIOS-Chip — Proximity self-organizing networking for plug-and-play intelligence.
+- 🌐 AIOS-Protocols — Register, discover, and communicate with agents via MCP and A2A standards.
 - 🧰 Developer SDKs — Cross-platform tools for creating AI-enhanced applications and hardware experiences.
 - 🪶 Extensible Interfaces — Seamless integration with sensors, displays, wearables, and smart environments.
 
