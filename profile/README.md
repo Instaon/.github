@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="../assets/logo_main.svg" width="90%" />
+</p>
 <div align="center">
-<img src="../assets/logo_main.svg" width="800" />
 
 # **Instaon • Intelligence Without Boundaries**
 
