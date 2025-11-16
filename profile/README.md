@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/logo_main.svg" width="360"/>
+<img src="../assets/logo_main.svg" width="360"/>
 # **引态科技 • 让智能协作不再有边界**
 
 **Instaon • Intelligence Without Boundaries**
