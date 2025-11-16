@@ -1,15 +1,20 @@
-# 引态科技 · Instaon
+<div align="center">
+<img src="assets/logo_main.svg" width="360"/>
+# **引态科技 • 让智能协作不再有边界**
 
-### 让智能协作不再有边界  
-**Intelligent collaboration, beyond boundaries.**
+**Instaon • Intelligence Without Boundaries**
 
-> 我们打造 AI 原生操作系统 **AIOS** —— 以身份确权、语义能力注册、近场组网为核心标准，
-> 连接设备与智能体，让一切智能都能主动服务、协同分润、自由流动。
-> 目标是让智能成为社会价值的参与者，以工程化路径重塑服务方式与协作关系。
+<br/>
+**Identity · Capability · Proximity · Coordination**
 
-🔗 **Website** ｜ https://yintai.ai  
-📘 **Docs** ｜ https://docs.yintai.ai  
-🧪 **Demo** ｜ https://chat.yintai.ai  
+AIOS 为智能体时代构建新的操作系统底层
+
+**AI-ID（身份）｜ AI-Cap（能力）｜ AI-Loc（空间）｜ AI-Link（组网）**
+<br/>
+
+[Website](https://yintai.ai) • [Docs](https://docs.yintai.ai) • [Demo](https://chat.yintai.ai)
+<hr width="50%">
+</div>
 
 ---
 
