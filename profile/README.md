@@ -1,5 +1,5 @@
 <div align="center">
-<img src="../assets/logo_main.svg"/>
+<img src="../assets/logo_main.svg" width="800" />
 
 # **引态科技 • 让智能协作不再有边界**
 
