@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
-<rect width="100%" height="100%" fill="#000"/>
-<g stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round">
-  <path d="M20 60 L40 20 L60 60 Z"/>
-</g>
-</svg>
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><defs><style>.cls-1{fill:#fff;}</style></defs><circle cx="514" cy="512" r="512"/><polygon class="cls-1" points="347.65 877.34 428.36 823.54 428.36 554.51 509.07 608.32 509.07 500.71 347.65 393.1 347.65 877.34"/><polygon class="cls-1" points="549.42 635.22 630.13 689.02 630.13 204.78 549.42 258.59 549.42 635.22"/><polygon class="cls-1" points="670.48 393.1 670.48 823.54 751.19 769.73 751.19 446.9 831.89 393.1 831.89 285.49 670.48 393.1"/><polygon class="cls-1" points="226.59 689.02 307.3 742.83 307.3 258.59 226.59 204.78 226.59 689.02"/></svg>
