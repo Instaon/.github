@@ -6,20 +6,20 @@
       .text-cn {
         fill: #111111;
         font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Arial, sans-serif;
-        font-size: 220px;
+        font-size: 140px;
         font-weight: 700;
       }
       .text-slogan {
         fill: #444444;
         font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Arial, sans-serif;
-        font-size: 90px;
+        font-size: 80px;
         font-weight: 400;
       }
     </style>
   </defs>
 
-  <!-- LOGO 缩放并置于左侧（整体缩放到约 30%） -->
-  <g transform="translate(0,120) scale(0.36)">
+  <!-- LOGO 缩放并置于左侧（整体缩放到约 24%） -->
+  <g transform="translate(10,150) scale(0.30)">
     <circle class="logo-circle" cx="514" cy="512" r="512"/>
     <polygon class="logo-shape" points="347.65 877.34 428.36 823.54 428.36 554.51 509.07 608.32 509.07 500.71 347.65 393.1 347.65 877.34"/>
     <polygon class="logo-shape" points="549.42 635.22 630.13 689.02 630.13 204.78 549.42 258.59 549.42 635.22"/>
@@ -28,8 +28,8 @@
   </g>
 
   <!-- 文字部分：右侧大字号 -->
-  <g transform="translate(900, 300)">
-    <text x="0" y="0" class="text-cn">引态科技 Instaon</text>
-    <text x="0" y="180" class="text-slogan">让智能协作不再有边界</text>
+  <g transform="translate(420, 300)">
+    <text x="0" y="0" class="text-cn">引态科技</text>
+    <text x="0" y="120" class="text-slogan">让智能协作不再有边界</text>
   </g>
 </svg>
