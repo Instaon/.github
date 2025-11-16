@@ -1,14 +1,12 @@
 <div align="center">
 <img src="../assets/logo_main.svg" width="800" />
 
-# **引态科技 • 让智能协作不再有边界**
-
-**Instaon • Intelligence Without Boundaries**
+# **Instaon • Intelligence Without Boundaries**
 
 <br/>
-**Identity · Capability · Proximity · Coordination**
-
 AIOS 为智能体时代构建新的操作系统底层
+
+**Identity · Capability · Proximity · Coordination**
 
 **AI-ID（身份）｜ AI-Cap（能力）｜ AI-Loc（空间）｜ AI-Link（组网）**
 <br/>

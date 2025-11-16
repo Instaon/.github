@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2600 900">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 640">
   <defs>
     <style>
       .logo-circle { fill: #000000; }
@@ -19,7 +19,7 @@
   </defs>
 
   <!-- LOGO 缩放并置于左侧（整体缩放到约 24%） -->
-  <g transform="translate(10,150) scale(0.30)">
+  <g transform="translate(20,150) scale(0.30)">
     <circle class="logo-circle" cx="514" cy="512" r="512"/>
     <polygon class="logo-shape" points="347.65 877.34 428.36 823.54 428.36 554.51 509.07 608.32 509.07 500.71 347.65 393.1 347.65 877.34"/>
     <polygon class="logo-shape" points="549.42 635.22 630.13 689.02 630.13 204.78 549.42 258.59 549.42 635.22"/>
