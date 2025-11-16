@@ -1,9 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160">
-<rect width="100%" height="100%" fill="#000"/>
-<g stroke="#fff" stroke-width="6" fill="none" stroke-linecap="round">
-  <path d="M60 120 L100 40 L140 120 Z"/>
-  <path d="M200 40 L200 120 M200 120 L260 120"/>
-  <circle cx="320" cy="80" r="40" />
-  <path d="M360 40 L420 40 L360 120 L420 120" />
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 800">
+  <defs>
+    <style>
+      .logo-shape { fill: #ffffff; }
+      .text-cn { fill: #ffffff; font-family: "Arial", sans-serif; font-size: 140px; font-weight: 600; }
+      .text-slogan { fill: #ffffff; font-family: "Arial", sans-serif; font-size: 60px; opacity: 0.85; }
+    </style>
+  </defs>
+
+  <!-- 背景可选，如不需要可删除 -->
+  <rect width="100%" height="100%" fill="#2f2f2f"/>
+
+  <!-- ==== 原 Logo 图形 ==== -->
+  <g transform="translate(100, 0) scale(0.9)">
+    <circle cx="514" cy="512" r="512" fill="#000"/>
+    <polygon class="logo-shape" points="347.65 877.34 428.36 823.54 428.36 554.51 509.07 608.32 509.07 500.71 347.65 393.1 347.65 877.34"/>
+    <polygon class="logo-shape" points="549.42 635.22 630.13 689.02 630.13 204.78 549.42 258.59 549.42 635.22"/>
+    <polygon class="logo-shape" points="670.48 393.1 670.48 823.54 751.19 769.73 751.19 446.9 831.89 393.1 831.89 285.49 670.48 393.1"/>
+    <polygon class="logo-shape" points="226.59 689.02 307.3 742.83 307.3 258.59 226.59 204.78 226.59 689.02"/>
+  </g>
+
+  <!-- ==== 文本部分 ==== -->
+  <!-- 公司名 -->
+  <text x="1050" y="350" class="text-cn">引态科技</text>
+
+  <!-- Slogan -->
+  <text x="1050" y="480" class="text-slogan">让智能协作不再有边界</text>
 </svg>
